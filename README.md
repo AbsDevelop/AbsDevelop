@@ -1,4 +1,4 @@
-### Hi there :balloon:
+# Hi there :balloon:
 I am Abner T. Guimarães, student of System Development in the institution Etec de Peruíbe, and I intend to follow and always learn more in the programming area.
 
 * :books: Studying High School and Technical School 
@@ -7,4 +7,3 @@ I am Abner T. Guimarães, student of System Development in the institution Etec 
 * :thought_balloon: ISFJ
 
 > :pushpin: "Be a voice, not an echo"
-
