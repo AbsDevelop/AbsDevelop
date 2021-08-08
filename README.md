@@ -7,4 +7,4 @@ I am Abner T. Guimarães, student of System Development in the institution Etec 
 * :email: Email: abnergmtomaz@gmail.com
 * :thought_balloon: ISFJ
 
-> :pushpin: "Be a voice, not an echo"
+>"Be a voice, not an echo"
