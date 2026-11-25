@@ -1,5 +1,5 @@
 # Hi there :v:
-I am Abner T. Guimarães, student of System Development in the institution UFABC, and I intend to follow and always learn more in the programming area.
+I'm Abner, a student of Computer Science and Neuroscience at UFABC. I strive to constantly deepen my knowledge of programming and software development, combining computational reasoning with an interdisciplinary approach to solve complex problems and learn new technologies through hands-on experience.
 
 * :books: Studying High School and Technical School 
 * :speech_balloon: Studying English, but with a basic conversation
